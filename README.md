@@ -45,8 +45,7 @@ To configure Zebar:
 
 ## wallpaper
 
-- [Here](mountain.jpg)
-- also found in [uhdpaper](https://www.uhdpaper.com/2020/07/mountain-landscape-scenery-minimalist.html)
+- found here [uhdpaper](https://www.uhdpaper.com/2020/07/mountain-landscape-scenery-minimalist.html)
 
 ## Homerow mods
 
