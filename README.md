@@ -2,7 +2,7 @@
 
 **This configuration builds upon the excellent work of [m1chaelwilliams](https://github.com/m1chaelwilliams) in their "make-windows-pretty" project [make-windows-pretty](https://github.com/m1chaelwilliams/make-windows-pretty). I have adapted it for Finnish keyboards and added some additional bindings I deemed beneficial expecially when using kanata homerow mods. My sincere thanks to [m1chaelwilliams](https://github.com/m1chaelwilliams) for the inspiration and foundational configurations.**
 
-**wideo for the visual looks and basic information about the functionality found in this [youtube video](https://www.youtube.com/watch?v=G0_wVLhI-Ds&t=98s)**
+**video for the visual looks and basic information about the functionality found in this [youtube video](https://www.youtube.com/watch?v=G0_wVLhI-Ds&t=98s)**
 
 - [My Windows Config](#my-windows-config)
   - [My Terminal Setup](#my-terminal-setup)
